@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eundw.github.io/TqR/sitemap.TqR.gz
